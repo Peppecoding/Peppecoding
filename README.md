@@ -5,11 +5,11 @@
 -->
 
 ### 🚀 **Mission Control**
-- **Current Quest**: I’m mastering the arcane arts of Python and the foundational elements of the web universe—HTML, CSS, and JavaScript.
-- **Learning Vector**: Currently delving deeper into sophisticated Python constructs and exploring the enigmatic world of advanced web frameworks.
+- **Current Quest**: Mastering the arcane arts of Python and the foundational elements of the web universe—HTML, CSS, and JavaScript.
+- **Learning Vector**: Delving deeper into sophisticated Python constructs and exploring the enigmatic world of advanced web frameworks.
 
 ### 🤝 **Collaboration Nexus**
-- **Open-Source Guild**: Looking to forge alliances with fellow coders on projects that push the boundaries of what's possible.
+- **Open-Source Guild**: Eager to forge alliances with fellow coders on projects that push the boundaries of what's possible.
 - **Digital Artisans Wanted**: Seeking visionary minds to expand this neon-infused code-scape.
 
 ### 📡 **Signal Hub**
@@ -20,7 +20,7 @@
 ### ⚡ **Neon Trivia**
 - **Origin Story**: Born from a spark in the digital ether, Peppecoding has evolved into a beacon for tech enthusiasts, lit by every commit and collaboration.
 
-- ## 🛠 Languages and Tools
+### 🛠 Languages and Tools
 
 <p align="left">
   <!-- Python -->
@@ -39,7 +39,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <!-- Other Icons -->
+  <!-- Robot Icon for Cyber Theme -->
+  <a href="https://en.wikipedia.org/wiki/Robot" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Robot_icon.svg" alt="robot" width="40" height="40"/>
+  </a>
 </p>
-
-

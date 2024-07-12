@@ -47,10 +47,3 @@
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
   </a>
-  <!-- Data Analysis -->
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="data analysis" width="40" height="40"/>
-  <!-- Leadership -->
-  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="leadership" width="40" height="40"/>
-  <!-- Problem Solving -->
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="problem solving" width="40" height="40"/>
-</p>

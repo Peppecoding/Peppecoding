@@ -5,8 +5,8 @@
 -->
 
 ### 🚀 **Mission Control**
-- **Current Quest**: Mastering the arcane arts of Python and the foundational elements of the web universe—HTML, CSS, and JavaScript.
-- **Learning Vector**: Delving deeper into sophisticated Python constructs and exploring the enigmatic world of advanced web frameworks.
+- **Current Quest**: Mastering the arcane arts of Python and exploring the web universe—HTML, CSS, JavaScript, and more.
+- **Learning Vector**: Delving deeper into data analysis, web development, and leadership skills.
 
 ### 🤝 **Collaboration Nexus**
 - **Open-Source Guild**: Eager to forge alliances with fellow coders on projects that push the boundaries of what's possible.
@@ -25,22 +25,40 @@
 <p align="left">
   <!-- Python -->
   <a href="https://python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python (Intermediate)
   </a>
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML (Intermediate)
   </a>
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS (Intermediate)
   </a>
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript (React.js) (Entry Level)
   </a>
-  <!-- Robot Icon for Cyber Theme -->
-  <a href="https://en.wikipedia.org/wiki/Robot" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Robot_icon.svg" alt="robot" width="40" height="40"/>
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> SQL (Entry Level)
   </a>
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> Tableau (Entry Level)
+  </a>
+  <!-- Google Sheets -->
+  <a href="https://www.google.com/sheets/about/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="google sheets" width="40" height="40"/> Google Sheets (Advanced)
+  </a>
+  <!-- Google Docs -->
+  <a href="https://www.google.com/docs/about/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_docs/google_docs-icon.svg" alt="google docs" width="40" height="40"/> Google Docs (Advanced)
+  </a>
+  <!-- Data Analysis -->
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="data analysis" width="40" height="40"/> Data Analysis (Intermediate)
+  <!-- Leadership -->
+  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="leadership" width="40" height="40"/> Leadership (Advanced)
+  <!-- Problem Solving -->
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="problem solving" width="40" height="40"/> Problem Solving (Advanced)
 </p>

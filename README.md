@@ -47,14 +47,6 @@
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
   </a>
-  <!-- Google Sheets -->
-  <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="google sheets" width="40" height="40"/>
-  </a>
-  <!-- Google Docs -->
-  <a href="https://www.google.com/docs/about/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_docs/google_docs-icon.svg" alt="google docs" width="40" height="40"/>
-  </a>
   <!-- Data Analysis -->
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="data analysis" width="40" height="40"/>
   <!-- Leadership -->

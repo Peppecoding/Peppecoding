@@ -6,8 +6,8 @@
 
 ### 🚀 **Mission Control**
 - **Current Quest**: I'm sharpening my skills in Python and dabbling in the basics of web development with HTML, CSS, and JavaScript.
-- **Learning Vector**: I'm currently deepening my knowledge of data analysis, web development, and honing my leadership skills.
-
+- **Learning Vector**: I'm currently deepening my knowledge of data analysis, web development.
+  
 ### 🤝 **Collaboration Nexus**
 - **Open-Source Guild**: I'm keen to team up with fellow coders on innovative projects that push the limits of our creativity and technical prowess.
 - **Digital Artisans Wanted**: I'm on the lookout for creative minds to join this vividly neon world of code.

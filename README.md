@@ -15,7 +15,6 @@
 ### 📡 **Signal Hub**
 - **Dialogue Lines Open**: Let's chat about anything and everything Python, the latest tech developments, or any tips you have for navigating the complexities of digital technology.
 - **Coordinates**: Reach out to me on [LinkedIn](https://www.linkedin.com/in/giuseppe-mendoza-noto-486715151/)
-- **Pronouns**: [Your preferred pronouns]
 
 ### ⚡ **Neon Trivia**
 - **Origin Story**: Peppecoding began as a mere spark in the vast digital void and has grown into a thriving community beacon, powered by each commit and collaboration.

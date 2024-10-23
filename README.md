@@ -1,27 +1,31 @@
 ## 🌌🔥 Welcome! 🔥🌌
 
-<!--
-**Peppecoding/Peppecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### 🚀 **Mission Control**
-- **Current Quest**: I'm sharpening my skills in Python and dabbling in the basics of web development with HTML, CSS, and JavaScript.
-- **Learning Vector**: I'm currently deepening my knowledge of data analysis, web development.
-  
+- **Current Quest**: I'm focused on game development with Unity and continuing to sharpen my Python skills for general-purpose programming.
+- **Learning Vector**: Currently diving deeper into Unity for game production, while expanding my Python knowledge for automation and general development.
+
 ### 🤝 **Collaboration Nexus**
-- **Open-Source Guild**: I'm keen to team up with fellow coders on innovative projects that push the limits of our creativity and technical prowess.
-- **Digital Artisans Wanted**: I'm on the lookout for creative minds to join this vividly neon world of code.
+- **Game Dev Guild**: I'm keen to team up with fellow game developers on innovative projects that push the limits of creativity, especially in Unity game development.
+- **Digital Artisans Wanted**: I'm looking for creative minds to collaborate in this vivid world of interactive experiences.
 
 ### 📡 **Signal Hub**
-- **Dialogue Lines Open**: Let's chat about anything and everything Python, the latest tech developments, or any tips you have for navigating the complexities of digital technology.
+- **Dialogue Lines Open**: Let's chat about Unity, Python, game development, or anything tech-related! Always open to learning new things and collaborating on exciting projects.
 - **Coordinates**: Reach out to me on [LinkedIn](https://www.linkedin.com/in/giuseppe-mendoza-noto-486715151/)
 
-### 🛠 Languages and Tools
+### 🛠 **Languages and Tools**
 
 <p align="left">
   <!-- Python -->
   <a href="https://python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank">
@@ -32,10 +36,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   </a>
+</p>

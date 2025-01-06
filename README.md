@@ -1,12 +1,8 @@
 ## 🌌🔥 Welcome! 🔥🌌
 
 ### 🚀 **Mission Control**
-- **Current Quest**: I'm focused on game development with Unity and continuing to sharpen my Python skills for general-purpose programming.
-- **Learning Vector**: Currently diving deeper into Unity for game production, while expanding my Python knowledge for automation and general development.
-
-### 🤝 **Collaboration Nexus**
-- **Game Dev Guild**: I'm keen to team up with fellow game developers on innovative projects that push the limits of creativity, especially in Unity game development.
-- **Digital Artisans Wanted**: I'm looking for creative minds to collaborate in this vivid world of interactive experiences.
+- **Current Quest**:  I am deeply engaged in mastering Unity for game development and enhancing my proficiency in Python for diverse programming tasks.
+- **Learning Vector**: My journey continues as I delve further into Unity for game creation and expand my expertise in Python for various scripting and automation tasks.
 
 ### 📡 **Signal Hub**
 - **Dialogue Lines Open**: Let's chat about Unity, Python, game development, or anything tech-related! Always open to learning new things and collaborating on exciting projects.

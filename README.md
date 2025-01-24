@@ -12,8 +12,6 @@ I’m a passionate developer with a keen interest in problem-solving and buildin
 ### 🌱 **Always Learning**  
 My journey involves constant growth as I refine my technical abilities, explore cutting-edge technologies, and contribute to meaningful projects.
 
-### 📡 **Let’s Connect!**  
-I'm open to discussions, collaborations, and new opportunities in technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/giuseppe-mendoza-noto-486715151/) or explore my projects here on GitHub.
 
 ### 🛠 **Languages and Tools**
 

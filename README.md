@@ -1,7 +1,9 @@
 # 🌟 Welcome to My GitHub! 🚀  
 
 ## 👋 About Me  
-I’m a **Data Analyst & Software Developer** with a strong passion for problem-solving and building innovative solutions. My expertise spans **Data Analytics, Game Development, and Web Development**, and I’m always excited to tackle new challenges.  
+I’m an **enthusiast of technology, problem-solving, and creative development**, constantly exploring **Data Analytics, Game Development, and Web Technologies**. I enjoy learning by doing, working on hands-on projects, and expanding my skill set through experimentation.  
+
+My journey is driven by curiosity and a passion for understanding how things work—whether it’s analyzing data, building interactive applications, or automating workflows. I'm always looking for new challenges and opportunities to grow.  
 
 ## 🔥 What I Do  
 - **📊 Data Analytics** → Proficient in **SQL, Python (Pandas, NumPy), and Data Visualization** (Looker Studio, Google Sheets).  

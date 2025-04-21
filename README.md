@@ -6,8 +6,8 @@ I’m an **enthusiast of technology, problem-solving, and creative development**
 My journey is driven by curiosity and a passion for understanding how things work—whether it’s analyzing data, building interactive applications, or automating workflows. I'm always looking for new challenges and opportunities to grow.  
 
 ## 🔥 What I Do  
-- **📊 Data Analytics** → Proficient in **SQL, Python (Pandas, NumPy), and Data Visualization** (Looker Studio, Google Sheets).  
-- **🎮 Game Development** → Experience in **Unity (C#), Python, and AI-driven mechanics**.  
+- **📊 Data Analytics** → Proficient in **SQL, Python (Pandas, NumPy)**.  
+- **🎮 Game Development** → Experience in **Unity (C#)**.  
 - **💻 Software Development** → Skilled in **Python scripting, automation, and backend development**.  
 - **🌐 Web Development** → Experienced in **HTML, CSS, JavaScript, and SQL** for dynamic applications.  
 

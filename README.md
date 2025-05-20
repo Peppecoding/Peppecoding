@@ -12,8 +12,10 @@ My journey is driven by curiosity and a passion for understanding how things wor
 - **🌐 Web Development** → Experienced in **HTML, CSS, JavaScript, and SQL** for dynamic applications.  
 
 ## 🚀 Current Focus  
-I’m currently refining my **Data Analytics skills**, building real-world projects using **SQL, Python, and Looker Studio**, and working on **game development** experiments in Unity.  
-I also enjoy experimenting with fun creative ideas—check out this simple 3D-style website I made with ChatGPT: 🌐 [peppecoding-3dgalaxy.netlify.app](https://peppecoding-3dgalaxy.netlify.app)
+I’m currently refining my Data Analytics skills, building real-world projects using SQL, Python, and Looker Studio, and working on game development experiments in Unity.
+
+I also enjoy experimenting with fun creative ideas—like this simple 3D-style website I made with help from ChatGPT: 🌐 [peppecoding-3dgalaxy.netlify.app](https://peppecoding-3dgalaxy.netlify.app)
+
 
 
 ## 🛠️ Languages & Tools  
